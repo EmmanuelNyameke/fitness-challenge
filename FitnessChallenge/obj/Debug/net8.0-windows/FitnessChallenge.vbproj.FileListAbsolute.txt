@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\FitnessChallenge\bin\Debug\net8.0-windows\FitnessChallenge.exe
+C:\Users\HELLO\Source\Repos\FitnessChallenge\bin\Debug\net8.0-windows\FitnessChallenge.deps.json
+C:\Users\HELLO\Source\Repos\FitnessChallenge\bin\Debug\net8.0-windows\FitnessChallenge.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\FitnessChallenge\bin\Debug\net8.0-windows\FitnessChallenge.dll
+C:\Users\HELLO\Source\Repos\FitnessChallenge\bin\Debug\net8.0-windows\FitnessChallenge.pdb
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.frmFitness.resources
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.dll
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\refint\FitnessChallenge.dll
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.pdb
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\ref\FitnessChallenge.dll
+C:\Users\HELLO\Source\Repos\FitnessChallenge\obj\Debug\net8.0-windows\FitnessChallenge.Resources.resources
